@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping
     public String ppp(){
-        return "test";
+        return "testtest";
     }
 
 }
